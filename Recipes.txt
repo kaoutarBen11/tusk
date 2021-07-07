@@ -5,4 +5,8 @@ tagine
 pastilla
 briwat
 
+beans
+pizza
+
+
 thank you ;)
