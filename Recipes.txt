@@ -2,3 +2,5 @@ Welcome to kate kitchen
 
 couscous
 tagine
+pastilla
+briwat
